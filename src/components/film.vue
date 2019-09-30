@@ -10,7 +10,7 @@
 </template>
 
 <script>
-  import api from '@/service/axiosConfig'
+  import api from '@/api/axiosConfig'
   export default {
     name: "film",
     methods: {
