@@ -1,5 +1,5 @@
 /**
- * @Description: 按照领域模型对api分类 this.$http['filmList/in_theaters'](params)
+ * @Description: 按照领域模型对api分类 this.$http['filmList/in_theaters'](params).then(res=>{})
  * @author  shangguanqingyun
  * @date 2019/4/15
 */
