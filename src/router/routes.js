@@ -1,5 +1,5 @@
 export default [{
-  name: "film",
+  name: "home",
   path: "/",
-  component: resolve => require(['@/components/film'], resolve)
+  component: resolve => require(['@/views/home'], resolve)
 }]
