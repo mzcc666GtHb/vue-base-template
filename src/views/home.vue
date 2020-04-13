@@ -47,7 +47,7 @@
     },
     methods: {
       tabClick(data) {
-        this.text = data.name
+        this.text = data.name + 'buyongpa'
       }
     }
   }
